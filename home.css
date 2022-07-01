@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    background: #0000 ;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px;
+}
+
+.tela_inicial img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.bt-link1{
+    margin-top: 20px;
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight:600;
+    background-color: #4040a1;
+    color:#ffff;
+}
+
+.bt-link1 a{
+    text-decoration:none;
+    color:#ffff
+}
+
+.bt-link1:hover {
+    background: #36486b;
+    transition: 0.3s;
+}
+
+.bt-link2{
+    margin-top: 25px;
+    height: 50px;
+    width: 50%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    font-weight:600;
+    background-color: #622569;
+    color:#ffff;
+}
+
+.bt-link2 a{
+    text-decoration:none;
+    color:#ffff
+}
+
+.bt-link2:hover {
+    background: #36486b;
+    transition: 0.5s;
+}

@@ -1,0 +1,23 @@
+tela 1 - tela institucional;
+
+Na tela de login encontramos dois botões o bt-link1 e o bt-link2;
+
+bt-link1;
+
+Ao pressionar o bt-link1 o usuário é transferido para tela de login; 
+
+Na tela de login o usuário digita seus dados e consegue avançar para sua dashbord;
+
+bt-link2;
+ 
+Ao pressionar o bt-link2 o usuário é transferido para uma tela de cadastro que é dividida em duas;
+
+- cadastro de dados;
+- cadastro de login;
+
+Após preencher todos os dados e confirmar informações, o usuário recebe uma mensagem informativa. 
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+     integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+     crossorigin="anonymous"></script>
